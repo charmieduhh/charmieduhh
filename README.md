@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495" width="250" height="250" />
-    <img src="https://tenor.com/view/grok-thanks-grok-thank-you-grok-nice-very-nice-gif-223136755113971649" width="250" height="250" />
+    <img src="https://giphy.com/gifs/pudgypenguins-computer-discord-laptop-5tiNlHkA1WdUh3jRDW" width="250" height="250" />
 </p>
 
 
