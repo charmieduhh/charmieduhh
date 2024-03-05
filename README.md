@@ -5,7 +5,7 @@
 - Let's cook up some digital sorcery! 👩‍🍳
 
 <details>
-  <summary><bold>My Tech Stack 💻✨</bold></summary>
+  <summary><strong>My Tech Stack 💻✨</strong></summary>
   <br/>
     
 [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary><bold>📲Contact info</bold></summary>
+  <summary><strong>📲Contact info</strong></summary>
   <br/>
   
 [![JavaScript](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmie-d/)
