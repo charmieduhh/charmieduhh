@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495" width="200" height="200" />
+    <img src="https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495" width="250" height="250" />
 </p>
 
 
