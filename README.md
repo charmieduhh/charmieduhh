@@ -1,4 +1,4 @@
-### About ME 💬 :
+# About ME 💬 :
 - 👋Hi! I'm a fullstack dev from LA with a background in healthcare
 - Traded my stethoscope for my a keyboard and fell head over heels for the creative and technical dance of software engineering!
 - Fully immersed in everything I do, whether it's through learning new tech or keeping myself active thorugh my interests 🐶🏔🏂🧘‍♀️🎤🏋️‍♀️🛼🏖
