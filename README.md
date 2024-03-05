@@ -1,4 +1,6 @@
-
+<p align="right">
+    <img src='![8C8D042F-7B67-4924-8E5A-5C702DD0BE5D-ezgif com-crop](https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495)'/>
+</p>
 
 # About ME 💬
 - 👋Hi! I'm a fullstack dev from LA with a background in healthcare
@@ -22,7 +24,7 @@
 ![Bcrypt](https://img.shields.io/badge/BCRYPT-grey?style=for-the-badge&logo=letsencrypt)
 [![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![ChartJS](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![React Testing Library](https://img.shields.io/badge/ReactTestingLibrary-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://testing-library.com/)
+[![React Testing Library](https://img.shields.io/badge/ReactTestingLibrary-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
 [![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
