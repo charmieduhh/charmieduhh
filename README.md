@@ -1,6 +1,7 @@
 <p align="right">
-    <img src='![8C8D042F-7B67-4924-8E5A-5C702DD0BE5D-ezgif com-crop](https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495)'/>
+    <img src="https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495" />
 </p>
+
 
 # About ME 💬
 - 👋Hi! I'm a fullstack dev from LA with a background in healthcare
