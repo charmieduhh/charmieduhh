@@ -1,11 +1,11 @@
 ### About ME 💬 :
 - 👋Hi! I'm a fullstack dev from LA with a background in healthcare
-- Traded my stethoscope for my a keyboard and fell head over heels for the creative and technical dance of software engineering! 💻✨
+- Traded my stethoscope for my a keyboard and fell head over heels for the creative and technical dance of software engineering!
 - Fully immersed in everything I do, whether it's through learning new tech or keeping myself active thorugh my interests 🐶🏔🏂🧘‍♀️🎤🏋️‍♀️🛼🏖
 - Let's cook up some digital sorcery! 👩‍🍳
 
 <details>
-  <summary>## My Tech Stack</summary>
+  <summary><strong>My Tech Stack 💻✨</strong></summary>
   <br/>
     
 [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary>## 📲Contact info: </summary>
+  <summary><strong>📲Contact info:</strong></summary>
   <br/>
   
 [![JavaScript](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmie-d/)
