@@ -1,14 +1,22 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6YnFuc3FnZmY3NjIyb25xaTMyMDRjZnZkaHlraG5xbDdvYW02aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif" width="250" height="250" />
     <img src="https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495" width="250" height="250" />
 </p>
 
+<div style="display: flex; justify-content: flex-end;">
+    <div>
+        <p>About Me 💬</p>
+        <ul>
+            <li>👋Hi! I'm Charmie & I'm a fullstack dev from LA with a background in healthcare</li>
+            <li>Traded my stethoscope for my a keyboard and fell head over heels for the creative and technical dance of software engineering!</li>
+            <li>Fully immersed in everything I do, whether it's through learning new tech or keeping myself active through my interests 🐶🏔🏂🧘‍♀️🎤🏋️‍♀️🛼🏖</li>
+            <li>Let's cook up some digital sorcery! 👩‍🍳</li>
+        </ul>
+    </div>
+    <div style="margin-left: 20px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6YnFuc3FnZmY3NjIyb25xaTMyMDRjZnZkaHlraG5xbDdvYW02aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5tiNlHkA1WdUh3jRDW/giphy.gif" width="250" height="250" />
+    </div>
+</div>
 
-# About Me 💬
-- 👋Hi! I'm Charmie & I'm a fullstack dev from LA with a background in healthcare
-- Traded my stethoscope for my a keyboard and fell head over heels for the creative and technical dance of software engineering!
-- Fully immersed in everything I do, whether it's through learning new tech or keeping myself active thorugh my interests 🐶🏔🏂🧘‍♀️🎤🏋️‍♀️🛼🏖
-- Let's cook up some digital sorcery! 👩‍🍳
 
 <details>
   <summary><strong>My Tech Stack 💻✨</strong></summary>
