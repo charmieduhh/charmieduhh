@@ -22,7 +22,7 @@
 ![Bcrypt](https://img.shields.io/badge/BCRYPT-grey?style=for-the-badge&logo=letsencrypt)
 [![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![ChartJS](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![ReactTestingLibrary](https://img.shields.io/badge/React_Testing Library-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://testing-library.com/)
+[![ReactTestingLibrary](https://img.shields.io/badge/ReactTestingLibrary-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://testing-library.com/)
 [![Jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
