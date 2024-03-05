@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
     <img src="https://github.com/charmieduhh/charmieduhh/assets/113138967/d3068505-add6-4754-99e6-86781edc0495" />
 </p>
 
