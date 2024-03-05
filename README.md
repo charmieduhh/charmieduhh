@@ -7,7 +7,6 @@
 - 👋Hi! I'm Charmie & I'm a fullstack dev from LA with a background in healthcare
 - Traded my stethoscope for my a keyboard and fell head over heels for the creative and technical dance of software engineering!
 - Fully immersed in everything I do, whether it's through learning new tech or keeping myself active thorugh my interests 🐶🏔🏂🧘‍♀️🎤🏋️‍♀️🛼🏖
-- Let's cook up some digital sorcery! 👩‍🍳
 
 <details>
   <summary><strong>My Tech Stack 💻✨</strong></summary>
@@ -35,7 +34,7 @@
 </details>
 
 <details>
-  <summary><strong>📲Contact info</strong></summary>
+  <summary><strong>📲Let's cook up some digital sorcery! 👩‍🍳</strong></summary>
   <br/>
   
 [![JavaScript](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmie-d/)
